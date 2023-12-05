@@ -1,4 +1,4 @@
-function findFirstRepeated(gifts) {
+function findFirstRepeated(gifts: Array<string>) {
   const arr = []
   
   for (let gift of gifts) {
